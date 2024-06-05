@@ -1,4 +1,5 @@
-DevOps1
+Devops
+
 Ce dépôt contient divers scripts et configurations liés aux pratiques DevOps, y compris des fichiers d'automatisation et de configuration pour différents exercices.
 
 Structure du Dépôt
